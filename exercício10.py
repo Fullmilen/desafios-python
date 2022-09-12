@@ -1,3 +1,4 @@
+##Faça um Programa que peça as 4 notas bimestrais e mostre a média.
 def valorPagamento(p, d):
     return p*1.03 + 0.001*d
 
