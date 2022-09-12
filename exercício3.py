@@ -1,3 +1,8 @@
+#Tendo como dado de entrada a altura (h) de uma pessoa, construa um
+#algoritmo que calcule seu peso ideal, utilizando as seguintes fórmulas:
+#• Para homens: (72.7*h) - 58
+#• Para mulheres: (62.1*h) - 44.7
+
 nome: str = input('Informe o seu nome: ')
 h = float(input('informe aqui a sua altura para ser calculado o seu peso ideal: '))
 gen = input('informe o seu gênero, digitando (M) para masculino e (F) para feminino: ')
